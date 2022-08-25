@@ -7,6 +7,10 @@
 	<packaging>war</packaging>
 	<version>1.1-SNAPSHOT</version>
 	
+	<maven.compiler.source>1.8</maven.compiler.source>
+	<maven.compiler.target>1.8</maven.compiler.target>
+
+
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
