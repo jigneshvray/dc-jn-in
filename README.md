@@ -1,3 +1,3 @@
 # dc-jn-in
 
-test ci
+test ci .
